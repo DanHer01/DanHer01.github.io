@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+:root {
+    background-color: beige;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    background-image: url(https://img.freepik.com/free-vector/cat-lover-pattern-background-design_53876-100662.jpg?w=2000);
+    background-size: cover;
+}
+
+#name,
+#email,
+#number {
+    font-size: 1.5em;
+}
